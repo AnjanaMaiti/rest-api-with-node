@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-with-node-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "appstart": "nodemon app.js .env"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
